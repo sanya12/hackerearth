@@ -1,5 +1,5 @@
 
-
+import java.util.Scanner.*;
 import java.util.*;
 import java.io.*;
 public class Battles_john {
